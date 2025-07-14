@@ -6,6 +6,10 @@ Refer to the [README.md](./README.md) for a complete description of the Graphics
 
 ## Changelog
 
+### v1.0.1
+- Replacement of Debug binaries with Release binaries.
+- Removal of hidden registers and associated APIs.
+- Updated README.md with new description of the library.
 ### v1.0.0
 - Initial release
 

@@ -1,6 +1,6 @@
 # Graphics Driver for Traveo II Cluster
 
-This middleware provides a standalone driver for the graphics subsystem Traveo II Cluster devices. It is a precompiled binary along with headers that provide the driver API. The following devices are supported by this driver:
+The graphics middleware interface provides a standalone Graphics Driver software for the graphics subsystem found in Traveo II Cluster devices. It is a precompiled binary along with headers that provide the driver API. The following devices are supported by this driver:
 - CYT4DNJBZS
 
 ## Functional Description

@@ -2,6 +2,7 @@
 
 The graphics middleware interface provides a standalone Graphics Driver software for the graphics subsystem found in Traveo II Cluster devices. It is a precompiled binary along with headers that provide the driver API. The following devices are supported by this driver:
 - CYT4DNJBZS
+- CYT3DLBBHS
 
 ## Functional Description
 
@@ -54,9 +55,10 @@ The key function is an option to render graphics directly to display (on-the-fly
 
 For more information, refer to the following documents:
 
-* [KIT_T2G_C-2D-6M_LITE](https://www.infineon.com/cms/en/product/evaluation-boards/kit_t2g_c-2d-6m_lite/)
-* [ModusToolbox Software Environment, Quick Start Guide, Documentation, and Videos](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software)
+* [KIT_T2G_C-2D-6M_LITE](https://www.infineon.com/evaluation-board/KIT-T2G-C-2D-6M-LITE)
+* [KIT_T2G_C-2D-4M_LITE](https://www.infineon.com/evaluation-board/KIT-T2G-C-2D-4M-LITE)
+* [ModusToolbox&trade; Software Environment, Quick Start Guide, Documentation, and Videos](https://www.infineon.com/design-resources/development-tools/sdk/modustoolbox-software)
 * [Infineon Technologies AG](https://www.infineon.com)
 
 ---
-© 2025, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.
+© Infineon Technologies AG or an affiliate of Infineon Technologies AG, 2025-2026.
